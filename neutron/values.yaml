@@ -135,7 +135,7 @@ metadata:
   workers: 4
 
 ml2:
-  tenant_network_types: "vxlan"
+  tenant_network_types: "flat"
   agent:
     tunnel_types: "vxlan"
   type_drivers:
